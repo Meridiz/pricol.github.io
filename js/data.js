@@ -1,7 +1,7 @@
 export const tasks = [
   {
     'id': `1`,
-    'title': `Выучить JS`,
+    'title': `Сделать УПП`,
     'status': `backlog`,
   },
   {
@@ -16,7 +16,7 @@ export const tasks = [
   },
   {
     'id': `4`,
-    'title': `Выпить смузи`,
+    'title': `Выпить сироп`,
     'status': `processing`,
   },
   {
@@ -41,7 +41,7 @@ export const tasks = [
   },
   {
     'id': `9`,
-    'title': `Погладить Кекса`,
+    'title': `Погладить кота`,
     'status': `done`,
   },
 ];
